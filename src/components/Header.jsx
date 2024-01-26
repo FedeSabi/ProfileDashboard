@@ -1,4 +1,4 @@
-import logo from "../assets/logo priv white.jpg";
+import logo from "../assets/LogoPrivWhite.jpg";
 import { RiSearchLine } from "react-icons/ri";
 const Header = () => {
   return (
